@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ikon1/Downloads/KidsDrawingApp/app/src/main/res/drawable/large.xml" value="0.11944444444444445" />
+        <entry key="..\:/Users/ikon1/Downloads/KidsDrawingApp/app/src/main/res/drawable/medium.xml" value="0.11944444444444445" />
+        <entry key="..\:/Users/ikon1/Downloads/KidsDrawingApp/app/src/main/res/drawable/small.xml" value="0.11944444444444445" />
         <entry key="..\:/Users/ikon1/Downloads/KidsDrawingApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/ikon1/Downloads/KidsDrawingApp/app/src/main/res/layout/drawing_brush_layout.xml" value="0.1" />
       </map>
     </option>
   </component>
